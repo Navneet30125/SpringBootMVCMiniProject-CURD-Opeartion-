@@ -1,1 +1,1 @@
-# SpringBootMVCMiniProject-CURD-Opeartion-
+# SpringBootMVCMiniProject-CURD-Opeartion
